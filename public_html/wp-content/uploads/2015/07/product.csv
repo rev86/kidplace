@@ -1,0 +1,2 @@
+pid,name,description,short_desc,url,categories,tags,brand,price,shipping,shipping_comment,image
+"123456","Some Test Title","test desc long","fdsfds",http://www.google.com","Beauty & Spas,Face & Skinnnnn,some other","lorem,ipsum,dolor,site","apple","99.99","10.00","some shipping comment","https://upload.wikimedia.org/wikipedia/en/e/ed/Small_logo_splash.png"
